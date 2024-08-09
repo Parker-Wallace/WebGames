@@ -1,0 +1,9 @@
+#game_area {
+    border: solid black 1px;
+    width: 50vmax;
+    height: 40vmax;
+    margin-inline: auto;
+    justify-content: center;
+
+}
+
